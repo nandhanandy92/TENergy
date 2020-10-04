@@ -19,6 +19,6 @@ opening and closing meter readings predicted meter reading.
 power and energy terms description and formulae in intro of the app
 unit of power consumption
 
-### maybe 
+### maybe later
 no of pannels and battery capacity needed to match your average power consumption.
 cost associated with moving to solar and break even analysis.
